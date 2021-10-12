@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// this is a test for the git config
 namespace JFlap_version5.Models
 {
     class State : INotifyPropertyChanged
